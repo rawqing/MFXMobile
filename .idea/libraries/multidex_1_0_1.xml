@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="multidex-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../android/.android/build-cache/a58341ef4fa4d10f953d180eac28bd7fc86bcfa7/output/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../android/.android/build-cache/a58341ef4fa4d10f953d180eac28bd7fc86bcfa7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:3:7-31
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:multidex:1.0.1] E:\data\android\.android\build-cache\a58341ef4fa4d10f953d180eac28bd7fc86bcfa7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\data\android\.android\build-cache\be8a65f6f0c71f11d4649ef484914455e09130c2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\303e17ae28ac130c9447fc56199420b67e07062e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\data\android\.android\build-cache\ecd3a3e0217150d02991d6b5790a29f05944bbfb\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\data\android\.android\build-cache\199c20d1191885c1d2becf20452d28b45f4a76c0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\data\android\.android\build-cache\034ea40f730c6adf52e44f926108e3ad7ce14415\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\16eefe037b5871dd4ebad08403073c0e8da0e345\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\c6b93c63f8e5952acf0f028fc557a5cedc0598e8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\1d1c70ae4cb8aa6811ec81fa5ecc73a756facdfa\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] E:\data\android\.android\build-cache\7fc7ef8eb475faf0bbb7adfead1266bddf78711c\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+		INJECTED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:7:5-83
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:9:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\data\android\.android\build-cache\be8a65f6f0c71f11d4649ef484914455e09130c2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\303e17ae28ac130c9447fc56199420b67e07062e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\data\android\.android\build-cache\ecd3a3e0217150d02991d6b5790a29f05944bbfb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\data\android\.android\build-cache\199c20d1191885c1d2becf20452d28b45f4a76c0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\data\android\.android\build-cache\034ea40f730c6adf52e44f926108e3ad7ce14415\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\16eefe037b5871dd4ebad08403073c0e8da0e345\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\c6b93c63f8e5952acf0f028fc557a5cedc0598e8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\1d1c70ae4cb8aa6811ec81fa5ecc73a756facdfa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] E:\data\android\.android\build-cache\7fc7ef8eb475faf0bbb7adfead1266bddf78711c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:9:48-80
+	android:debuggable
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:9:81-106
+	android:icon
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:9:18-47
+activity#com.FXTSMobile.LoginDialogActivity
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:11:19-51
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:10:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:14:27-74
+activity#com.FXTSMobile.MainActivity
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:17:9-81
+	android:label
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:17:47-79
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:17:19-46
+activity#com.FXTSMobile.CreateOrderActivity
+ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:18:9-88
+	android:label
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:18:54-86
+	android:name
+		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:18:19-53
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\data\android\.android\build-cache\be8a65f6f0c71f11d4649ef484914455e09130c2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\303e17ae28ac130c9447fc56199420b67e07062e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\data\android\.android\build-cache\ecd3a3e0217150d02991d6b5790a29f05944bbfb\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\data\android\.android\build-cache\199c20d1191885c1d2becf20452d28b45f4a76c0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\data\android\.android\build-cache\034ea40f730c6adf52e44f926108e3ad7ce14415\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\16eefe037b5871dd4ebad08403073c0e8da0e345\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\data\android\.android\build-cache\c6b93c63f8e5952acf0f028fc557a5cedc0598e8\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\1d1c70ae4cb8aa6811ec81fa5ecc73a756facdfa\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,7 @@
+#Fri Nov 10 16:46:04 CST 2017
+base.0=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fb1d78ceb8d7d8242dd30b1f8a4518073eced34
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fae94362fe0dda0a43f9d4e36bb3b64d0b20455b\\classes.dex
+base.1=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fae94362fe0dda0a43f9d4e36bb3b64d0b20455b
+file.0=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fb1d78ceb8d7d8242dd30b1f8a4518073eced34\\classes.dex

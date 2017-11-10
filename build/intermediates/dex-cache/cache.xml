@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\a58341ef4fa4d10f953d180eac28bd7fc86bcfa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b76669d7dba06048d85fc36da1a81527219ca380\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\ecd3a3e0217150d02991d6b5790a29f05944bbfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_195a04b295e578686aa33da788a01faeaf0d73a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_f853c727bd52525bb684c36d3d5e06e380668843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\workspace\android\FXTSMobile\app\libs\fxcore2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="017a3bc1bddfd9f1c25bc2bc3a8844317123b53a">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\2\fxcore2_9068c960c5dbcc2896e51ccb8bc9f6caec9d7c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\be8a65f6f0c71f11d4649ef484914455e09130c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0478f238084e7a7b5dbe7996ddd4b19522ce5e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\199c20d1191885c1d2becf20452d28b45f4a76c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7bac7b23a820d30c94614d8bf2898eb7f6863de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\workspace\android\FXTSMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d37925da0d1608538dce56e14500bb46dd4150dd">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fae94362fe0dda0a43f9d4e36bb3b64d0b20455b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\workspace\android\FXTSMobile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4fb1d78ceb8d7d8242dd30b1f8a4518073eced34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\16eefe037b5871dd4ebad08403073c0e8da0e345\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_818e8725eee2643e81660c65c9745d4c2c968f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\303e17ae28ac130c9447fc56199420b67e07062e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_841b471b267af5c242ca3719bc28568516d693f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\034ea40f730c6adf52e44f926108e3ad7ce14415\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b546a3719de35c5f6d5e1882c3fe4c5e821224e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2f3c95020c4d73a6262de806d8daaa16b653711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\c6b93c63f8e5952acf0f028fc557a5cedc0598e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de0764ded0148913b3dc5bc746e9a462afff92a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\data\android\.android\build-cache\1d1c70ae4cb8aa6811ec81fa5ecc73a756facdfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_805fab2ca2f91e4d9d6ab688dd54c266b918a8e4\classes.dex" />
+    </item>
+
+</items>

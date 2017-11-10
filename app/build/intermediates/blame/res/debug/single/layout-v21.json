@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
