@@ -9,9 +9,19 @@ import com.fxcore2.O2GResponse;
 
 public class HistoryResponseListener implements IO2GResponseListener {
     private O2GResponse mResponse = null;
+    private String requestID;
+
     public O2GResponse getResponse() {
         return mResponse;
     }
+
+    public void setmResponse(O2GResponse response) {
+        mResponse = response;
+    }
+    public void setRequestID(String requestID) {
+        mResponse = null;
+        this.requestID = requestID; }
+
     // Constructor
     public HistoryResponseListener() {
 

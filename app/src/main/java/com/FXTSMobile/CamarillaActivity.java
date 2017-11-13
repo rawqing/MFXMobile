@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.constant.Symbol;
 import com.fxcore2.IO2GResponseListener;
 import com.fxcore2.O2GMarketDataSnapshotResponseReader;
 import com.fxcore2.O2GRequest;
@@ -15,6 +16,8 @@ import com.fxcore2.O2GSession;
 import com.fxcore2.O2GTableType;
 import com.fxcore2.O2GTimeframe;
 import com.fxcore2.O2GTimeframeCollection;
+
+import java.util.Map;
 
 public class CamarillaActivity extends Activity {
 
@@ -58,6 +61,11 @@ public class CamarillaActivity extends Activity {
 //                eurh5.setText(Double.toString(bidHigh));
             }
         }
+    }
+
+    private Map<Symbol,O2GMarketDataSnapshotResponseReader> getAllHistory(String timer ,int len){
+
+        return null;
     }
 
 }
