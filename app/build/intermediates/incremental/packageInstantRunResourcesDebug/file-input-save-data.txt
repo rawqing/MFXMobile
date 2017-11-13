@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 10 16:46:04 CST 2017
+#Mon Nov 13 18:14:01 CST 2017
 14.set=ANDROID_RESOURCE
 180.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_template_media_custom.xml
 118.set=ANDROID_RESOURCE
@@ -17,7 +17,7 @@
 134.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 186.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 161.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-192.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
+192.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
 132.set=ANDROID_RESOURCE
 179.set=ANDROID_RESOURCE
 59.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -71,7 +71,7 @@
 187.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 110.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 162.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-193.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_material.xml
+193.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_edit_text_material.xml
 142.set=ANDROID_RESOURCE
 189.set=ANDROID_RESOURCE
 35.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -124,7 +124,7 @@
 111.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 163.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 106.set=ANDROID_RESOURCE
-194.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_template_custom_big.xml
+194.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_material.xml
 190.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 152.set=ANDROID_RESOURCE
 199.set=ANDROID_RESOURCE
@@ -164,6 +164,7 @@
 183.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_track_material.xml
 148.set=ANDROID_RESOURCE
 90.set=ANDROID_RESOURCE
+201.set=ANDROID_RESOURCE
 29.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png
 109.set=ANDROID_RESOURCE
 51.set=ANDROID_RESOURCE
@@ -179,7 +180,7 @@
 164.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 116.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-195.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png
+195.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v21\\notification_template_custom_big.xml
 191.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 170.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_seekbar_tick_mark_material.xml
 162.set=ANDROID_RESOURCE
@@ -193,6 +194,7 @@
 95.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_search_dropdown_item_icons_2line.xml
 149.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 79.set=ANDROID_RESOURCE
+201.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 70.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\abc_list_menu_item_checkbox.xml
 124.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 145.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_btn_colored_text_material.xml
@@ -233,7 +235,7 @@
 165.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 126.set=ANDROID_RESOURCE
 140.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-196.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_borderless_material.xml
+196.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png
 171.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_switch_thumb_material.xml
 38.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 133.set=ANDROID_RESOURCE
@@ -284,7 +286,7 @@
 166.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 136.set=ANDROID_RESOURCE
 141.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-197.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_light.xml
+197.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_btn_borderless_material.xml
 120.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\notification_template_big_media_custom.xml
 172.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png
 39.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -336,7 +338,7 @@
 167.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 146.set=ANDROID_RESOURCE
 142.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-198.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
+198.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_hint_foreground_material_light.xml
 121.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_btn_colored_material.xml
 0.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 173.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_go_search_api_material.xml
@@ -358,7 +360,7 @@
 6.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png
 181.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 121.set=ANDROID_RESOURCE
-count=201
+count=202
 27.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 77.set=ANDROID_RESOURCE
 79.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -389,7 +391,7 @@ count=201
 156.set=ANDROID_RESOURCE
 147.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_primary_text_disable_only_material_dark.xml
 143.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-199.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_indicator_material.xml
+199.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png
 122.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\abc_search_url_text.xml
 13.set=ANDROID_RESOURCE
 1.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -444,7 +446,7 @@ count=201
 166.set=ANDROID_RESOURCE
 148.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\notification_action_tombstone.xml
 144.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
-200.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_seek_thumb.xml
+200.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_ratingbar_indicator_material.xml
 123.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\notification_tile_bg.xml
 23.set=ANDROID_RESOURCE
 2.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -482,7 +484,7 @@ count=201
 195.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 170.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 65.set=ANDROID_RESOURCE
-191.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png
+191.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_camarilla.xml
 7.set=ANDROID_RESOURCE
 169.set=ANDROID_RESOURCE
 26.set=ANDROID_RESOURCE
@@ -498,6 +500,7 @@ count=201
 149.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_action_bar_item_background_material.xml
 145.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_
 170.set=ANDROID_RESOURCE
+201.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color-v23\\abc_tint_seek_thumb.xml
 124.file=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v22\\abc_alert_dialog_button_bar_material.xml
 33.set=ANDROID_RESOURCE
 3.base=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\resources-debug.ap_

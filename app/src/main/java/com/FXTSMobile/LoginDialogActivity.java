@@ -71,6 +71,11 @@ public class LoginDialogActivity extends Activity implements IO2GSessionStatus  
         String sPassword = mEditTextPassword.getText().toString();
         String sConnection = mEditTextConnection.getText().toString();
         String sHost = mEditTextHost.getText().toString();
+        if("".equals(sLogin)){
+            sLogin = "3221359";
+        }
+        if("".equals(sPassword))    sPassword = "aA123321";
+        if("".equals(sConnection)) sConnection = "Demo";
         if ("".equals(sHost)) {
             sHost = dHost;
         }

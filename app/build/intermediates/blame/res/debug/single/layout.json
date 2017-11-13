@@ -180,6 +180,10 @@
         "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout\\notification_action.xml"
     },
     {
+        "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camarilla.xml",
+        "source": "E:\\data\\workspace\\android\\FXTSMobile\\app\\src\\main\\res\\layout\\activity_camarilla.xml"
+    },
+    {
         "merged": "E:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "E:\\data\\android\\.android\\build-cache\\e6222815a342697326859175408cb583316bfe91\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },

@@ -6,6 +6,20 @@
     <string name="labelConnection">Connection:</string>
     <string name="labelHost">Host:</string>
     <string name="login">Login</string>
+    <string name="live">live</string>
+    <string name="gbpusd">GBPUSD</string>
+    <string name="eurusd">EURUSD</string>
+    <string name="h5">H5</string>
+    <string name="usdjpy">USDJPY</string>
+    <string name="audusd">AUDUSD</string>
+    <string name="nzdusd">NZDUSD</string>
+    <string name="usdcad">USDCAD</string>
+    <string name="usdchf">USDCHF</string>
+    <string name="h4">H4</string>
+    <string name="h3">H3</string>
+    <string name="l3">L3</string>
+    <string name="l4">L4</string>
+    <string name="l5">L5</string>
     <string-array name="order_types">
         <item>Market Order</item>
         <item>Entry Order</item>

@@ -18,6 +18,7 @@ import android.util.TypedValue;
 import android.view.Gravity;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.widget.Button;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
@@ -62,6 +63,15 @@ public class MainActivity extends Activity implements IO2GResponseListener, OnCl
         mSession.subscribeResponse(this);
         O2GRequest refreshOffersRequest = mSession.getRequestFactory().createRefreshTableRequest(O2GTableType.OFFERS);
         mSession.sendRequest(refreshOffersRequest);
+
+        Button cama = findViewById(R.id.cama);
+        cama.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, CamarillaActivity.class);
+                startActivity(intent);
+            }
+        });
     }
     
     @Override

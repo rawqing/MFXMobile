@@ -48,21 +48,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="E:\data\workspace\android\FXTSMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca8f8f0116e0bc42d7608889cdf201b6551dcb8f">
+        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fae94362fe0dda0a43f9d4e36bb3b64d0b20455b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\data\android\.android\build-cache\199c20d1191885c1d2becf20452d28b45f4a76c0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
         <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7bac7b23a820d30c94614d8bf2898eb7f6863de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\data\workspace\android\FXTSMobile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d37925da0d1608538dce56e14500bb46dd4150dd">
-        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fae94362fe0dda0a43f9d4e36bb3b64d0b20455b\classes.dex" />
     </item>
     <item
         is-multidex="true"

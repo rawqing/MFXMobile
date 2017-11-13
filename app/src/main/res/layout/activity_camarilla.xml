@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.FXTSMobile.CamarillaActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TableRow android:id="@+id/symbol_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                
+                <TextView android:text="@string/live"/>
+                <TextView android:text="@string/usdjpy" 
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/gbpusd"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/eurusd"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/audusd"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/nzdusd"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/usdcad"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+                <TextView android:text="@string/usdchf"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="60dp"/>
+            </TableRow>
+            <TableRow android:id="@+id/l_h5up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_h5"
+                android:layout_marginTop="8dp"><TextView android:text="@string/l5"/></TableRow>
+            <TableRow android:id="@+id/l_h5down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_h4up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_h4"
+                android:layout_marginTop="8dp"><TextView android:text="@string/h4"/></TableRow>
+            <TableRow android:id="@+id/l_h4down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_h3up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_h3"
+                android:layout_marginTop="8dp"><TextView android:text="@string/h3"/></TableRow>
+            <TableRow android:id="@+id/l_h3down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+
+            <TableRow android:id="@+id/l_l3up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_l3"
+                android:layout_marginTop="8dp"><TextView android:text="@string/l3"/></TableRow>
+            <TableRow android:id="@+id/l_l3down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_l4up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_l4"
+                android:layout_marginTop="8dp"><TextView android:text="@string/l4"/></TableRow>
+            <TableRow android:id="@+id/l_l4down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_l5up"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+            <TableRow android:id="@+id/l_l5"
+                android:layout_marginTop="8dp"><TextView android:text="@string/l5"/></TableRow>
+            <TableRow android:id="@+id/l_l5down"
+                android:layout_marginTop="8dp"><TextView /></TableRow>
+        </TableLayout>
+    </HorizontalScrollView>
+</RelativeLayout>
