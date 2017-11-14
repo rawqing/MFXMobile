@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Map;
 
+import com.feature.SharedObjects;
 import com.fxcore2.O2GOfferRow;
 import com.fxcore2.O2GRequest;
 import com.fxcore2.O2GRequestFactory;

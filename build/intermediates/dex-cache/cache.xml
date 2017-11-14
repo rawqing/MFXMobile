@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="E:\data\android\.android\build-cache\a58341ef4fa4d10f953d180eac28bd7fc86bcfa7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="E:\data\workspace\android\FXTSMobile\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b76669d7dba06048d85fc36da1a81527219ca380\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="E:\data\android\.android\build-cache\ecd3a3e0217150d02991d6b5790a29f05944bbfb\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"

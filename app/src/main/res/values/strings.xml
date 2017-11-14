@@ -6,7 +6,7 @@
     <string name="labelConnection">Connection:</string>
     <string name="labelHost">Host:</string>
     <string name="login">Login</string>
-    <string name="live">live</string>
+    <string name="level">Level</string>
     <string name="gbpusd">GBPUSD</string>
     <string name="eurusd">EURUSD</string>
     <string name="h5">H5</string>

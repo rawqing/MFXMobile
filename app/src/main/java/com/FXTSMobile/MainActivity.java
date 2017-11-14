@@ -24,6 +24,7 @@ import android.widget.TableRow;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.feature.SharedObjects;
 import com.fxcore2.IO2GResponseListener;
 import com.fxcore2.O2GOfferRow;
 import com.fxcore2.O2GOffersTableResponseReader;

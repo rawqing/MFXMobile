@@ -1,4 +1,4 @@
-#Mon Nov 13 18:14:03 CST 2017
+#Tue Nov 14 17:07:01 CST 2017
 base.0=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4fb1d78ceb8d7d8242dd30b1f8a4518073eced34
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -17,7 +17,6 @@ ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml
 		ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from E:\data\workspace\android\FXTSMobile\app\src\main\AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:multidex:1.0.1] E:\data\android\.android\build-cache\a58341ef4fa4d10f953d180eac28bd7fc86bcfa7\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\data\android\.android\build-cache\e6222815a342697326859175408cb583316bfe91\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\data\android\.android\build-cache\be8a65f6f0c71f11d4649ef484914455e09130c2\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\data\android\.android\build-cache\303e17ae28ac130c9447fc56199420b67e07062e\output\AndroidManifest.xml:21:5-23:63

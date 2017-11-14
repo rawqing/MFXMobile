@@ -2385,7 +2385,7 @@ containing a value of this type.
         public static final int labelHost=0x7f05002c;
         public static final int labelLogin=0x7f05002d;
         public static final int labelPassword=0x7f05002e;
-        public static final int live=0x7f05002f;
+        public static final int level=0x7f05002f;
         public static final int login=0x7f050030;
         public static final int nzdusd=0x7f050031;
         public static final int search_menu_title=0x7f050013;

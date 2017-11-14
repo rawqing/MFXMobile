@@ -12,6 +12,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.feature.SharedObjects;
 import com.fxcore2.IO2GSessionStatus;
 import com.fxcore2.O2GAccountsTableResponseReader;
 import com.fxcore2.O2GResponse;

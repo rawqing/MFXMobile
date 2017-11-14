@@ -1,4 +1,4 @@
-#Fri Nov 10 16:21:00 CST 2017
+#Tue Nov 14 17:07:01 CST 2017
 base.0=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
 renamed.0=classes.dex
 file.0=E\:\\data\\workspace\\android\\FXTSMobile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

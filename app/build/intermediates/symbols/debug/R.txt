@@ -803,7 +803,7 @@ int string labelConnection 0x7f05002b
 int string labelHost 0x7f05002c
 int string labelLogin 0x7f05002d
 int string labelPassword 0x7f05002e
-int string live 0x7f05002f
+int string level 0x7f05002f
 int string login 0x7f050030
 int string nzdusd 0x7f050031
 int string search_menu_title 0x7f050013
